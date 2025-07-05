@@ -1,4 +1,4 @@
-package number_four;
+package com.mycompany.medicallogreader;
 
 import java.io.File;
 import java.io.FileNotFoundException;
