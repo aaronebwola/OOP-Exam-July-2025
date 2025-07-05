@@ -1,4 +1,4 @@
-package number_three;
+package com.mycompany.aqianalysis;
 
 import java.util.Arrays;
 import java.util.Random;
