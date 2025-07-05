@@ -1,4 +1,4 @@
-package number_three;
+package com.mycompany.pm25tracker;
 
 public class PM25Tracker {
     public static void trackWithWhile() {
