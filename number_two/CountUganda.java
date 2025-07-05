@@ -1,4 +1,4 @@
-package number_two;
+package com.mycompany.countuganda;
 
 import java.util.Scanner;
 
